@@ -1,0 +1,28 @@
+{
+  "name": "dropdown_menu_animations",
+  "version": "1.0.0",
+  "description": "add various dropdown menu animations very easily",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeannepietropaoli/dropdown_menu_animations-package.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Jeanne Pietropaoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeannepietropaoli/dropdown_menu_animations-package/issues"
+  },
+  "homepage": "https://github.com/jeannepietropaoli/dropdown_menu_animations-package#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.7.1"
+  }
+}
