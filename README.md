@@ -15,7 +15,7 @@ The goal is to create and publish a first npm package to apply various animation
 - Using export and set up / publish a npm package
 
 ## Installation
-s
+
 npm install --save-dev dropdown_menu_animations
 
 Then...
