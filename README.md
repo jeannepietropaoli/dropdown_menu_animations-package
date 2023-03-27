@@ -1,8 +1,8 @@
-#what is this ?
+## What is this ?
 
 Apply various animations to your dropdown menus very easily. Animation will be applied to the whole menu, not each item.
 
-#installation
+## Installation
 
 npm install --save-dev dropdown_menu_animations
 
