@@ -1,9 +1,21 @@
 ## What is this ?
 
-Apply various animations to your dropdown menus very easily. Animation will be applied to the whole menu, not each item.
+Project inside the Odin Project's Full Stack JavaScript course.
+To learn more about The Odin Project : https://www.theodinproject.com/
+
+To learn more about the specific exercise : https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-interface-interactions
+
+The goal is to create and publish a first npm package to apply various animations to dropdown menus very easily. Animation will be applied to the whole menu, not each item.
+
+## Skills to practice
+
+- Using the animate method
+- Working with keyframes
+- Working with the transform property
+- Using export and set up / publish a npm package
 
 ## Installation
-
+s
 npm install --save-dev dropdown_menu_animations
 
 Then...
@@ -31,3 +43,4 @@ The dropdown-containers elements must have their css display property set to non
     .dropdown-container {
         display : none;
     }
+
